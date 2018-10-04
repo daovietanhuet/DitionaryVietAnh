@@ -1,0 +1,18 @@
+apple	táo
+appear	xuất hiện
+array	mảng
+algorithm	thuật toán
+bear	gấu
+beef	thịt bò
+baby	em bé
+balloon	bóng bay
+cat	mèo
+camera	máy quay
+class	lớp
+congratulation	chúc mừng
+cut	cắt
+dog	chó
+developer	nhà phát triển
+doctor	bác sĩ
+desk	bàn học
+dish	món ăn
