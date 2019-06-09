@@ -7,7 +7,7 @@ public class Dictionary {
 	private List<Word> listWord = new ArrayList<Word>();
 
 	public List<Word> getListWord() {
-		return listWord;
+		return listWord; 
 	}
 
 	public void setListWord(List<Word> listWord) {
